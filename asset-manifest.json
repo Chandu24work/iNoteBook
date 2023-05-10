@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Chandu24work/iNoteBook.git/static/css/main.0942fa97.css",
+    "main.js": "/git@github.com:Chandu24work/iNoteBook.git/static/js/main.d93ea25d.js",
+    "index.html": "/git@github.com:Chandu24work/iNoteBook.git/index.html",
+    "main.0942fa97.css.map": "/git@github.com:Chandu24work/iNoteBook.git/static/css/main.0942fa97.css.map",
+    "main.d93ea25d.js.map": "/git@github.com:Chandu24work/iNoteBook.git/static/js/main.d93ea25d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0942fa97.css",
+    "static/js/main.d93ea25d.js"
+  ]
+}
